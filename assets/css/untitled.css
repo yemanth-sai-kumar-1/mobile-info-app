@@ -1,0 +1,19 @@
+img::selection {
+  color: #fff;
+  text-align: center;
+  background: transparent;
+}
+
+.imagesize {
+  text-align: center;
+}
+
+.imagesize {
+  height: 300px;
+  width: 900px;
+}
+
+h1 {
+  text-align: center;
+}
+
