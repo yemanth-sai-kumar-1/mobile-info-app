@@ -18,20 +18,10 @@ h1 {
 }
 
 .logo {
+  background-color: white;
   height: 50px;
   width: 50px;
-  background-color: white;
-}
-
-.logoed {
-  border-radius: 20 px;
-  border-radius: 28px;
-}
-
-.logoed {
-}
-
-.logoed {
+  border-radius: 30px;
   margin-right: 10px;
 }
 
